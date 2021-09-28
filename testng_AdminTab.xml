@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Orange HRM Admin Module Test Suite" verbose="1" >
+<listeners>
+        <listener class-name="com.hrm.util.ExtentReporterNG"/>
+  
+ </listeners>
+  <test name="Orange HRM Admin Module Test Suite" >
+    <packages>
+      <package name="com.hrm.testcases.AdminTab" />
+   </packages>
+ </test>
+</suite>

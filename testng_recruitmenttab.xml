@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Orange HRM My Info Module Test Suite" verbose="1" >
+<!-- <listeners>
+        <listener class-name="com.hrm.util.ExtentReporterNG"/>
+   		<listener class-name="com.hrm.util.TestListener"/>
+        <listener class-name="com.hrm.util.RetryListener"/>
+  
+ </listeners> -->
+  <test name="Orange Recruitment Module Test Suite" >
+    <packages>
+      <package name="com.hrm.testcases.Recruitment" />
+   </packages>
+ </test>
+</suite>
