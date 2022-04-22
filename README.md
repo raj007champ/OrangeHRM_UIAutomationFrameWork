@@ -6,7 +6,7 @@ This is a Maven project that implements a Page Object Model design pattern using
 Extent Reports and TestNg have been used to generate the test report.
 
 # Functionality
-The following flows has been automated:
+The following flows have been automated:
   1. E2E Test cases of OrangeHRM Login Page.
   2. E2E Test cases of OrangeHRM MyInfo Page.
   3. E2E Test cases of OrangeHRM Recruitment Page.
